@@ -1,0 +1,77 @@
+BANCO DE DADOS:
+
+Criado em 1960, o banco de dados surgiu no meio eletrônico com a função de juntar e organizar dados, como o nome em si sugere, normalmente, armazenados eletronicamente em um sistema de computador controlado por outro sistema de gerenciamento de banco de dados (DBMS) para permitir, de forma mais prática e eficiente, a atualização, recuperação, gerenciamento, busca e análise de informações no dia a dia por diversos usuários quando necessário. 
+Com o avanço da tecnologia, foi preciso a renovação destes para suprir as necessidades da população e a era tecnológica. Dessa forma, do banco de dados hierárquico que se baseava em um modelo de árvore e permitia apenas um relacionamento um-para-muitos, passou, hoje, para banco de dados na nuvem e bancos de dados autônomos, abrindo novos caminhos, o que o fez ser denominado como o mais novo petróleo por ser um meio de busca e análise de informações, tornando-se essenciais na condução estratégica de situações diversas, principalmente por empresas. "Quem sabe fazer uma boa coleta de dados e analisá-los corretamente, tem o ouro em suas mãos!"
+A maioria dos bancos de dados usa a linguagem de consulta estruturada (SQL), desenvolvida pela primeira vez na IBM em 1970, para escrever e consultar dados, entretanto, com o passar dos anos e a evolução dos métodos eletrônicos novas linguagens foram elaboradas.
+Os bancos de dados autônomos usam tecnologia baseada em nuvem e machine learning para automatizar muitas das tarefas de rotina necessárias para gerenciar bancos de dados, como ajuste, segurança, backups, atualizações e etc. Com essas tarefas tediosas automatizadas, os administradores de banco de dados ficam livres para fazer um trabalho mais estratégico. Dessa forma, os recursos autônomos de autocondução, autoproteção e autorreparo dos bancos de dados independentes estão prestes a revolucionar a forma como as empresas gerenciam e protegem seus dados, possibilitando vantagens de desempenho, custos mais baixos e segurança aprimorada. 
+Logo, fica claro que o melhor banco de dados para uma organização específica depende de como a organização pretende usar os dados já que, atualmente, existem variados tipos de bancos de dados como os bancos de dados relacionais e outros bancos de dados menos comuns que são adaptados para funções científicas, financeiras ou outras muito específicas.
+
+
+FONTE:
+https://horadecodar.com.br/banco-de-dados-na-programacao/#:~:text=Na%20programa%C3%A7%C3%A3o%2C%20o%20banco%20de,gerenciem%20as%20informa%C3%A7%C3%B5es%20armazenadas%20nele. 
+https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20%C3%A9,banco%20de%20dados%20(DBMS).
+
+
+
+ALGORITMO:
+
+Algoritmo é uma sequência de instruções passo a passo que descreve como resolver um problema ou realizar uma tarefa, ou seja, é uma sequência de instruções ou comandos realizados de maneira sistemática com o objetivo de resolver um problema ou executar uma tarefa. Eles são usados na programação para criar soluções eficientes e organizadas. 
+Algoritmos podem ser representados de várias maneiras, como pseudocódigo, fluxogramas ou código de programação onde são a base da construção de software e ajudam os desenvolvedores a resolver uma variedade de problemas. Sendo assim, a eficiência de um algoritmo é medida pela sua complexidade de tempo e espaço, que determinam o consumo de recursos como tempo de execução e memória.
+
+
+FONTE: 
+https://www.significados.com.br/algoritmo/#:~:text=Um%20algoritmo%20%C3%A9%20uma%20sequ%C3%AAncia,descreveu%20regras%20para%20equa%C3%A7%C3%B5es%20matem%C3%A1ticas.
+https://tecnoblog.net/responde/o-que-e-algoritmo/ 
+
+
+
+NEUTRALIDADE DE REDE:
+
+A neutralidade de rede é um princípio fundamental da governança da internet que prega que os provedores de serviços de internet (ISPs) devem tratar todo o tráfego de dados de maneira igual, sem discriminação ou preferência por tipos de conteúdo, sites, aplicativos ou plataformas. Isso significa que os ISPs não devem bloquear, diminuir a velocidade, priorizar ou restringir o acesso a determinados serviços online com base em sua natureza ou origem.
+A priori, os princípios da neutralidade de rede garantem que a internet seja um ambiente aberto, livre e equitativo para todos os usuários e criadores de conteúdo. A ideia é que os usuários tenham a liberdade de acessar qualquer site, aplicativo ou serviço sem interferência injusta por parte dos ISPs, sendo considerada importante para a inovação, já que permite que novas startups e serviços tenham as mesmas oportunidades de competir com os gigantes estabelecidos, sem serem discriminados pelos provedores de internet.
+Outrossim, a discussão em torno da neutralidade de rede muitas vezes envolve o debate sobre a classificação dos serviços de internet como “serviços de utilidade pública” ou serviços de informação “. Se a internet for classificada como um serviço de utilidade pública, regulamentações mais rigorosas podem ser aplicadas para garantir a neutralidade de rede, caso contrário, estas podem ser mais leves. Dessa forma, os defensores da neutralidade de rede argumentam que isso é essencial para manter a equidade, liberdade de expressão e acesso justo à informação na era digital. No entanto, algumas partes argumentam que os ISPs devem ter a flexibilidade de gerenciar o tráfego para garantir uma experiência de qualidade para os usuários e investir em infraestrutura.
+Logo, a neutralidade de rede tem sido um tópico de debate em muitos países e jurisdições, resultando em regulamentações diferentes em diferentes partes do mundo. Alguns países adotaram leis específicas para proteger a neutralidade de rede, enquanto outros dependem de regulamentações mais amplas de telecomunicações ou princípios de concorrência para abordar a questão. Dessa forma, fica claro que o cenário da neutralidade de rede continua evoluindo à medida que a tecnologia e a legislação avançam.
+
+
+FONTE:
+https://www.direitonet.com.br/artigos/exibir/10680/A-neutralidade-da-rede-e-o-direito-digital-no-Brasil 
+https://www.cin.ufpe.br/~tg/2015-2/arbm.pdf 
+https://internetlab.org.br/pt/especial/neutralidade-da-rede-questoes-atuais-e-futuras-emdebate/#:~:text=A%20neutralidade%20da%20rede%20diz,sofrer%20atrasos%20ou%20bloqueios%20seletivos. 
+
+
+
+ZERO-RATING:
+
+“Zero rating” é um termo que se refere a uma prática em que os provedores de serviços de internet (ISPs) ou operadoras de telecomunicações oferecem acesso gratuito a determinados serviços ou conteúdos online, geralmente isentando o tráfego de dados associado a esses serviços do limite de dados do usuário. Isso significa que os usuários podem acessar esses serviços sem gastar sua franquia de dados.
+Embora o zero rating possa parecer benéfico para os usuários, ele também levanta preocupações e debates em torno da questão da neutralidade de rede. Assim, dentro de alguns aspectos a serem considerados têm-se a discriminação de conteúdo, uma vez que alguns serviços são privilegiados em relação a outros acarretando na distorção da concorrência no mercado online; desigualdade de acesso, uma vez que aqueles que não possuem acesso a serviços zero rated podem ser colocados em desvantagem em relação aos que têm, criando uma divisão digital e, inovação limitada, onde startups e novos serviços podem ter dificuldades em competir com os serviços que estão zero rated, já que os usuários têm um incentivo financeiro para usar os serviços privilegiados.
+Desse modo, defensores da neutralidade de rede argumentam que todas as formas de tráfego na internet devem ser tratadas de forma igual, sem discriminação, enquanto outros argumentam que o zero rating pode ser uma forma de melhorar o acesso à internet para aqueles que não possuem recursos suficientes para gastar em dados.
+Conforme o exposto, regulamentações e decisões políticas variam em diferentes partes do mundo em relação ao zero rating. Alguns países têm proibido ou regulamentado estritamente a prática, enquanto outros podem permitir com certas restrições, sendo de suma importância considerar os prós e contras à essa prática em relação à neutralidade de rede e aos impactos no acesso e na inovação online. 
+
+
+
+FONTE:
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml 
+https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate#:~:text=Por%20essa%20perspectiva%2C%20usu%C3%A1rios%20de,usu%C3%A1rios%2C%20mais%20valiosa%20e%20%C3%BAtil. 
+
+
+
+
+REDE NEURAL ARTIFICIAL:
+
+Uma Rede Neural Artificial (RNA) é um modelo computacional inspirado na estrutura e funcionamento do cérebro humano. Ela é projetada para aprender padrões complexos em dados através de processos de treinamento e ajuste dos pesos das conexões entre seus elementos. As RNAs são amplamente utilizadas em tarefas de aprendizado de máquina e processamento de dados, incluindo reconhecimento de padrões, classificação, regressão, processamento de linguagem natural e muitas outras aplicações 
+Dentre os principais conceitos relacionados às redes neurais artificiais estão:
+1.	Neurônios Artificiais (ou Nodos): Neurônios são os blocos de construção básicos das redes neurais. Eles recebem entradas ponderadas, aplicam uma função de ativação e geram uma saída. A saída de um neurônio pode ser passada como entrada para outros neurônios.
+2.	Camadas: As RNAs são organizadas em camadas, cuja a camada de entrada recebe os dados inicias, as camadas intermediárias (chamadas de camadas ocultas) processam as informações e a camada de saída produz resultados finais.
+3.	Pesos e Bias: Os pesos são valores associados às conexões entre neurônios determinando a força e a direção da influência de uma entrada em um neurônio. Já o bias é um termo adicional que permite ajustar a saída do neurônio.
+4.	Função de Ativação: Cada neurônio aplica uma função de ativação à soma ponderada das entradas. A função de ativação introduz não linearidades na rede, permitindo a modelagem de relações complexas nos dados.
+5.	Feedforward e Retropropagação: A etapa de feedforward envolve passar os dados através da rede neural, camada por camada, da entrada para a saída. A retroprogramação é o processo de ajustar os pesos da rede com base no erro entre as saídas reais e as desejadas. Isso permite que a rede aprenda ao longo do tempo.
+6.	Arquiteturas Diferentes: Existem várias arquiteturas de RNAs, incluindo redes neurais profundas (Deep Neural Networks, DNNs) com múltiplas camadas ocultas, redes convolucionais (Convolutional Neural Networks, CNNs) para processamento de imagens, e redes recorrentes (Recurrent Neural Networks, RNNs) para sequências de dados, entre outras.
+7.	Aprendizado Supervisionado e Não Supervisionado: No aprendizado supervisionado, a RNA é treinada com pares de entrada e saída esperada. Já no aprendizado não supervisionado, a rede busca padrões nos dados sem rótulos claros.
+8.	Regularização e Otimização: Para evitar overfitting (ajuste excessivo aos dados de treinamento) e melhorar o desempenho da RNA, técnicas de regularização e otimização são usadas, como dropout, normalização e diferentes algoritmos de otimização de pesos.
+9.	Aplicações: As RNAs são usadas em uma ampla variedade de campos, incluindo visão computacional, processamento de linguagem natural, jogos, diagnósticos médicos, finanças, automação industrial e muito mais 
+10.	Frameworks e Bibliotecas: Existem várias bibliotecas e frameworks de código aberto que facilitam a criação e o treinamento de redes neurais, como TensorFlow, PyTorch e Keras.
+As redes neurais artificiais têm sido uma das principais impulsionadoras do progresso no campo do aprendizado de máquina e inteligência artificial, permitindo que máquinas aprendam e tomem decisões com base em dados complexos de maneira semelhante ao cérebro humano.
+
+FONTE:
+https://www.ibm.com/brpt/topics/neuralnetworks#:~:text=As%20redes%20neurais%20artificiais%20(ANNs,peso%20e%20um%20limite%20associados. 
+https://pollux.com.br/blog/redes-neurais-o-que-sao-e-como-usa-las-na-industria/#:~:text=Elas%20t%C3%AAm%20como%20objetivo%20replicar,com%20quase%20nenhuma%20interven%C3%A7%C3%A3o%20humana. 
