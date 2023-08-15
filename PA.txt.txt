@@ -6,24 +6,18 @@ A maioria dos bancos de dados usa a linguagem de consulta estruturada (SQL), des
 Os bancos de dados autônomos usam tecnologia baseada em nuvem e machine learning para automatizar muitas das tarefas de rotina necessárias para gerenciar bancos de dados, como ajuste, segurança, backups, atualizações e etc. Com essas tarefas tediosas automatizadas, os administradores de banco de dados ficam livres para fazer um trabalho mais estratégico. Dessa forma, os recursos autônomos de autocondução, autoproteção e autorreparo dos bancos de dados independentes estão prestes a revolucionar a forma como as empresas gerenciam e protegem seus dados, possibilitando vantagens de desempenho, custos mais baixos e segurança aprimorada. 
 Logo, fica claro que o melhor banco de dados para uma organização específica depende de como a organização pretende usar os dados já que, atualmente, existem variados tipos de bancos de dados como os bancos de dados relacionais e outros bancos de dados menos comuns que são adaptados para funções científicas, financeiras ou outras muito específicas.
 
-
 FONTE:
 https://horadecodar.com.br/banco-de-dados-na-programacao/#:~:text=Na%20programa%C3%A7%C3%A3o%2C%20o%20banco%20de,gerenciem%20as%20informa%C3%A7%C3%B5es%20armazenadas%20nele. 
 https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20%C3%A9,banco%20de%20dados%20(DBMS).
-
-
 
 ALGORITMO:
 
 Algoritmo é uma sequência de instruções passo a passo que descreve como resolver um problema ou realizar uma tarefa, ou seja, é uma sequência de instruções ou comandos realizados de maneira sistemática com o objetivo de resolver um problema ou executar uma tarefa. Eles são usados na programação para criar soluções eficientes e organizadas. 
 Algoritmos podem ser representados de várias maneiras, como pseudocódigo, fluxogramas ou código de programação onde são a base da construção de software e ajudam os desenvolvedores a resolver uma variedade de problemas. Sendo assim, a eficiência de um algoritmo é medida pela sua complexidade de tempo e espaço, que determinam o consumo de recursos como tempo de execução e memória.
 
-
 FONTE: 
 https://www.significados.com.br/algoritmo/#:~:text=Um%20algoritmo%20%C3%A9%20uma%20sequ%C3%AAncia,descreveu%20regras%20para%20equa%C3%A7%C3%B5es%20matem%C3%A1ticas.
 https://tecnoblog.net/responde/o-que-e-algoritmo/ 
-
-
 
 NEUTRALIDADE DE REDE:
 
@@ -32,13 +26,10 @@ A priori, os princípios da neutralidade de rede garantem que a internet seja um
 Outrossim, a discussão em torno da neutralidade de rede muitas vezes envolve o debate sobre a classificação dos serviços de internet como “serviços de utilidade pública” ou serviços de informação “. Se a internet for classificada como um serviço de utilidade pública, regulamentações mais rigorosas podem ser aplicadas para garantir a neutralidade de rede, caso contrário, estas podem ser mais leves. Dessa forma, os defensores da neutralidade de rede argumentam que isso é essencial para manter a equidade, liberdade de expressão e acesso justo à informação na era digital. No entanto, algumas partes argumentam que os ISPs devem ter a flexibilidade de gerenciar o tráfego para garantir uma experiência de qualidade para os usuários e investir em infraestrutura.
 Logo, a neutralidade de rede tem sido um tópico de debate em muitos países e jurisdições, resultando em regulamentações diferentes em diferentes partes do mundo. Alguns países adotaram leis específicas para proteger a neutralidade de rede, enquanto outros dependem de regulamentações mais amplas de telecomunicações ou princípios de concorrência para abordar a questão. Dessa forma, fica claro que o cenário da neutralidade de rede continua evoluindo à medida que a tecnologia e a legislação avançam.
 
-
 FONTE:
 https://www.direitonet.com.br/artigos/exibir/10680/A-neutralidade-da-rede-e-o-direito-digital-no-Brasil 
 https://www.cin.ufpe.br/~tg/2015-2/arbm.pdf 
 https://internetlab.org.br/pt/especial/neutralidade-da-rede-questoes-atuais-e-futuras-emdebate/#:~:text=A%20neutralidade%20da%20rede%20diz,sofrer%20atrasos%20ou%20bloqueios%20seletivos. 
-
-
 
 ZERO-RATING:
 
@@ -47,14 +38,9 @@ Embora o zero rating possa parecer benéfico para os usuários, ele também leva
 Desse modo, defensores da neutralidade de rede argumentam que todas as formas de tráfego na internet devem ser tratadas de forma igual, sem discriminação, enquanto outros argumentam que o zero rating pode ser uma forma de melhorar o acesso à internet para aqueles que não possuem recursos suficientes para gastar em dados.
 Conforme o exposto, regulamentações e decisões políticas variam em diferentes partes do mundo em relação ao zero rating. Alguns países têm proibido ou regulamentado estritamente a prática, enquanto outros podem permitir com certas restrições, sendo de suma importância considerar os prós e contras à essa prática em relação à neutralidade de rede e aos impactos no acesso e na inovação online. 
 
-
-
 FONTE:
 https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml 
 https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate#:~:text=Por%20essa%20perspectiva%2C%20usu%C3%A1rios%20de,usu%C3%A1rios%2C%20mais%20valiosa%20e%20%C3%BAtil. 
-
-
-
 
 REDE NEURAL ARTIFICIAL:
 
@@ -104,3 +90,43 @@ As redes neurais artificiais têm sido uma das principais impulsionadoras do pro
 FONTE:
 https://www.ibm.com/brpt/topics/neuralnetworks#:~:text=As%20redes%20neurais%20artificiais%20(ANNs,peso%20e%20um%20limite%20associados. 
 https://pollux.com.br/blog/redes-neurais-o-que-sao-e-como-usa-las-na-industria/#:~:text=Elas%20t%C3%AAm%20como%20objetivo%20replicar,com%20quase%20nenhuma%20interven%C3%A7%C3%A3o%20humana. 
+
+4)A relação entre a LGPD e os Data Centers no Brasil:
+
+   Data Centers são instalações físicas projetadas para abrigar servidores, sistemas de armazenamento, equipamentos de rede e outros componentes de tecnologia da informação. Eles são essenciais para empresas e organizações que precisam armazenar, processar e distribuir uma grande quantidade de dados de maneira eficiente e segura. Esses centros são construídos com recursos de alta tecnologia para garantir o funcionamento contínuo de servidores e sistemas, incluindo refrigeração especializada, backup de energia, segurança física e recursos de monitoramento. Data Centers desempenham um papel crítico em garantir a disponibilidade, segurança e desempenho de serviços online, aplicativos, sites e outros processos dependentes de tecnologia. A LGPD (Lei Geral de Proteção de Dados) regula o tratamento de dados pessoais no Brasil. No contexto dos Data Centers, eles desempenham um papel fundamental na armazenagem e processamento desses dados, precisando seguir as diretrizes da LGPD para garantir a segurança e a privacidade das informações. Data Centers devem implementar medidas técnicas e organizacionais para proteger os dados, além de garantir que o fluxo de informações esteja em conformidade com a lei. Isso inclui a adoção de medidas de segurança, controle de acesso e consentimento dos titulares dos dados. O não cumprimento das normas da LGPD pode resultar em penalidades.
+
+5) Formatos de arquivos de dados proprietários e abertos:
+
+a. Forneça exemplos de formatos:
+
+Formatos de arquivos de dados podem ser classificados em proprietários e abertos, dependendo de como eles são criados, utilizados e compartilhados:
+
+1. Proprietários:
+
+•Microsoft Word (.docx): Um formato proprietário para documentos de texto do Microsoft Word.
+•Adobe Photoshop (.psd): Usado para salvar imagens editáveis no Adobe Photoshop.
+•AutoCAD Drawing (.dwg): Um formato utilizado em projetos de design assistido por computador no AutoCAD.
+
+2.Abertos:
+
+•JPEG (.jpg): Um formato comum para imagens comprimidas, amplamente suportado em várias plataformas.
+•PNG (.png): Formato de imagem que suporta transparência e compressão sem perda.
+•PDF (.pdf): Formato de documento portátil, independente de plataforma e amplamente utilizado para compartilhamento de documentos.
+•CSV (.csv): Formato de valores separados por vírgula, frequentemente usado para dados tabulares.
+•JSON (.json): Formato de texto usado para armazenar e trocar dados estruturados em uma maneira legível por humanos e por máquinas.
+
+Enquanto formatos proprietários muitas vezes são desenvolvidos por uma empresa específica e podem ter restrições quanto ao uso e acesso, formatos abertos são mais inclusivos e geralmente possuem especificações públicas que permitem a interoperabilidade entre diferentes plataformas e aplicativos.
+
+b. Discuta as implicações relacionadas a dados públicos
+
+Implicações Relacionadas a Dados Públicos:
+
+Acessibilidade: Usar formatos abertos para dados públicos garante que um público amplo possa acessar e utilizar esses dados, independentemente do software que utilizem.
+
+Interoperabilidade: Formatos abertos promovem a interoperabilidade entre sistemas e plataformas, permitindo que os dados sejam facilmente integrados em diferentes contextos.
+
+Reutilização: Dados públicos devem ser disponibilizados em formatos que permitam fácil reutilização. Formatos abertos facilitam a análise, visualização e criação de novos produtos ou serviços baseados nos dados.
+
+Longevidade: Ao usar formatos abertos, os dados públicos têm maior probabilidade de permanecer acessíveis a longo prazo, independentemente de mudanças na tecnologia.
+
+No contexto de dados públicos, escolher formatos abertos é uma prática recomendada para garantir a acessibilidade, a interoperabilidade e a utilidade contínua dos dados para uma ampla gama de usuários e propósitos.
