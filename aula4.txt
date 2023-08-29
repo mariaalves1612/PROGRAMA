@@ -1,0 +1,41 @@
+JAVASCRIPT:https://playcode.io/javascript 
+
+const message = 'Hello friend' // Try edit me
+
+// Update header text
+document.querySelector('#header').innerHTML = message
+
+// Log to console
+console.log(message)
+
+HTML:https://playcode.io/html
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/style.css">
+  </head>
+  <body>
+    
+    <h1>Hello AABCMM!</h1>
+
+  </body>
+
+RUBY:https://try.ruby-lang.org/
+
+4.times do
+  print 'il souriait '
+end
+
+JavaScript:
+JavaScript é uma linguagem de programação interpretada, baseada em orientação a objetos utilizada para client-side utilizada principalmente em navegadores web, mas também em outros ambientes como Node.js ou Apache CouchDB. É uma linguagem de script multiplataforma.
+
+Um script pode ser considerado um pequeno programa que é desenvolvido para executar pequenas funções em uma página web
+
+Ruby:
+Ruby é uma linguagem de programação conhecida por sua simplicidade e elegância. Ela é frequentemente usada para desenvolvimento web e é a base do framework Ruby on Rails, que é amplamente utilizado para criar aplicativos web robustos e escaláveis. Ruby enfatiza a legibilidade do código e a produtividade do desenvolvedor, proporcionando uma sintaxe amigável e poderosas ferramentas para manipulação de strings, coleções e outros tipos de dados.
+
+HTML:
+HTML, sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto), é uma linguagem usada para estruturar o conteúdo de uma página web. Ela não é uma linguagem de programação no sentido tradicional, mas sim uma linguagem de marcação. Com HTML, você define a estrutura e os elementos de uma página, como parágrafos, títulos, imagens, links e tabelas. HTML é a espinha dorsal de uma página web, fornecendo a estrutura básica para exibir o conteúdo, mas não é responsável por fornecer interatividade ou lógica complexa.
