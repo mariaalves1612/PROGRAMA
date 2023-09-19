@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+a = 5
+b = 20
+
+soma = a + b
+subtracao = a - b
+multiplicacao = a * b
+divisao = a / b
+
+nome = "maduhzita"
+r1 = a > b
+r2 = nome == "maduhzita"
